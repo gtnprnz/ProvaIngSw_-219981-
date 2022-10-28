@@ -71,6 +71,7 @@ public class FunnyAlgorithms {
      */
     public int stringToIntConverter(String number) throws UnsupportedOperationException {
         throw new UnsupportedOperationException("To be implemented");
+        //Scritto nel dev
     }
 
 }
